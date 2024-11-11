@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF713&width=435&lines=Hello+world!%2C+I'm+Zouhir+bakkas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0EF713&width=435&lines=Hello+world!%2C+I'm+Zouhir+bakkas" alt="Typing SVG" /></a>
 
 <h2>Software Engineer Student</h2>
 
@@ -20,8 +20,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-
 </p>
+***
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zbakkas&show_icons=true&locale=en&layout=compact&bg_color=1d1f21&text_color=c9d1d9&title_color=58a6ff&icon_color=79ff97" alt="zbakkas" /></p>
 
