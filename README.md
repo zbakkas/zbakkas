@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-<img align="right" alt="Coding" width="400"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFrOXBtNndmZ2I0ODk4ZzF0YzBoYnR2cnV5Y3dwaHIzY2VieDRsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp">
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
