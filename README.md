@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to My GitHub Profile! <img src="https://media1.tenor.com/m/4BkYeeOwEUgAAAAd/waving-wave.gif" width="50" alt="Welcome GIF"> .</h1>
-<h3 align="center">Software Engineer Student</h3>
-
-
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF713&width=435&lines=Hello+world!%2C+I'm+Zouhir+bakkas" alt="Typing SVG" /></a>
+
+<h2>Software Engineer Student</h2>
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBmOGwzajU0YTBxbnJ6a29iazl4cGxrMHg0dmVrejM0aHlmemtuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Welcome GIF">
 </div>
 
