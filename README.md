@@ -48,3 +48,14 @@
 <div align="center">
  <a  href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zbakkas" alt="zbakkas's 42 stats" /></a>
 </div>
+
+<hr>
+<h3> 📫 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /img> </h3>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zouhirbakkas.com@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouhir-bakkas-0b083a16b/)
+
+  <b> Let's get in touch!</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" />
+
+</div>
