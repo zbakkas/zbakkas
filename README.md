@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile! 👋 .</h1>
+<h1 align="center">Welcome to My GitHub Profile! <img src="https://media1.tenor.com/m/4BkYeeOwEUgAAAAd/waving-wave.gif" width="50" alt="Welcome GIF"> .</h1>
 <h3 align="center">Software Engineer Student</h3>
 
 
@@ -26,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zbakkas&show_icons=true&locale=en&layout=compact&bg_color=1d1f21&text_color=c9d1d9&title_color=58a6ff&icon_color=79ff97" alt="zbakkas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbakkas&show_icons=true&locale=en&bg_color=1d1f21&text_color=c9d1d9&title_color=58a6ff&icon_color=79ff97" alt="zbakkas" /></p>
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zbakkas" alt="zbakkas's 42 stats" /></a>
